@@ -7,3 +7,5 @@ Using R for geospatial analysis offers exceptional flexibility and analytical po
 These tools allow the graphical representation of complex data, advanced spatial analyses such as interpolation, network modeling, and the visualization of spatial data at various scales. By facilitating the understanding of spatial relationships and enabling the visual exploration of data, R becomes an essential asset for professionals and researchers involved in geography, urban planning, environmental studies, and other disciplines that require in-depth spatial data analysis.
 
 In summary, geospatial analysis with R not only provides advanced analytical and visualization capabilities, but it also plays a central role in decision-making processes based on accurate and spatially contextualized data, contributing to more effective and relevant solutions for contemporary challenges.
+
+To receive the full script files with interactive maps, please write to: **julienbidias246@gmail.com.**
