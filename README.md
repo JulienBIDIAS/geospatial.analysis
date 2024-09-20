@@ -10,6 +10,6 @@ In summary, geospatial analysis with R not only provides advanced analytical and
 
 To receive the full script files with interactive maps, please write to: **julienbidias246@gmail.com.**
 
-shape file link : **https://github.com/JulienBIDIAS/geospatial_analysis.git**
+shape file link : **https://gadm.org/download_country.html**
 
 
