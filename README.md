@@ -8,7 +8,6 @@ These tools allow the graphical representation of complex data, advanced spatial
 
 In summary, geospatial analysis with R not only provides advanced analytical and visualization capabilities, but it also plays a central role in decision-making processes based on accurate and spatially contextualized data, contributing to more effective and relevant solutions for contemporary challenges.
 
-To receive the full script files with interactive maps, please write to: **julienbidias246@gmail.com.**
 
 shape file link : **https://gadm.org/download_country.html**
 
